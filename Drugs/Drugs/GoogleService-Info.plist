@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>24653128188-6l7d6ekf6uhnhvanrkidhm8eqgdbr2dl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.24653128188-6l7d6ekf6uhnhvanrkidhm8eqgdbr2dl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1HXG5m9xrsW87GnM3anIjDF34eqEqf6g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>24653128188</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Ebtisam.CureApp</string>
+	<key>PROJECT_ID</key>
+	<string>cure-4b696</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cure-4b696.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:24653128188:ios:2207db14bfcb777f</string>
+	<key>DATABASE_URL</key>
+	<string>https://cure-4b696.firebaseio.com</string>
+</dict>
+</plist>
